@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="test1">
+    <file>logo.png</file>
+    <file>profile.png</file>
+  </qresource>
+</RCC>
